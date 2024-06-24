@@ -11,17 +11,17 @@
       </section>
       <section class="features">
         <div class="feature">
-          <img src="./assets/feature1.png" alt="Feature 1">
+          <img src="./assets/feature1.jpeg" alt="Feature 1">
           <h3>Feature 1</h3>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
         </div>
         <div class="feature">
-          <img src="./assets/feature2.png" alt="Feature 2">
+          <img src="./assets/feature2.jpeg" alt="Feature 2">
           <h3>Feature 2</h3>
           <p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
         </div>
         <div class="feature">
-          <img src="./assets/feature3.png" alt="Feature 3">
+          <img src="./assets/feature3.jpeg" alt="Feature 3">
           <h3>Feature 3</h3>
           <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
         </div>
